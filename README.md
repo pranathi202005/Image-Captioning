@@ -1,4 +1,4 @@
 # Image-Captioning
 
 ## Project Overview
-Return the caption for the provided image using pre-defined 
+This Python script uses the pre-trained deep learning models to detect caption for the image and uses streamlit framework for interface. 
